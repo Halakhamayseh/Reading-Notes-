@@ -10,5 +10,5 @@
 4. Links [GitHub](http://github.com)
 5. Username @mentions Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual
 
-This my [Githup]( link plz follow me :blush:
+This my [GitHup](https://github.com/Halakhamayseh) link plz follow me :blush:
 
