@@ -7,8 +7,10 @@
 * Item 1
 * Item 2
 3. Images ![GitHub Logo](/images/logo.png)
-4. Links [GitHub](http://github.com)
-5. Username @mentions Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual
+4. Links [GitHub] (http://github.com)
+5. Username @mentions Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual.
 
-This my [GitHup](https://github.com/Halakhamayseh) link plz follow me :blush:
+You can find more click [here](https://guides.github.com/features/mastering-markdown/)
+
+This my [GitHup](https://github.com/Halakhamayseh) link plz follow me :blush: :relaxed:
 
