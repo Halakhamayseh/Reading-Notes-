@@ -2,7 +2,7 @@
 ### GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 ### Markdown is a plain text formatting syntax aimed at making writing for the internet easier and beautiful style text 
 ### Some examples of syntax guide in markdown:
-1. Headers:#This is an<h1> tag
+1. Headers:```#This is an<h1> tag```
 2. Unordered
 * Item 1
 * Item 2
