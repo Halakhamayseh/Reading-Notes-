@@ -14,5 +14,5 @@ Having a growth mindset is essential for success.Growth mindset to describe the 
 A growth mindset allows to find yourself well ,keep in and achieve your goals.
 
 ### *Hala khamayseh* 
-it is my pleasure if you follow me in [Githup](https://github.com/Halakhamayseh)
+it is my pleasure if you follow me in [Githup](https://github.com/Halakhamayseh) .
 
