@@ -1,0 +1,7 @@
+# CPU – or Central Processing
+*is considered the most important component in a computer and for good reason.*
+*it handles most operations that make it function, by processing instructions and giving signals out to other components.*
+*The CPU is the main bridge between all the computer’s major parts. RAM – Random Access Memory, or RAM for short, is a computer component where data used by the operating system and software applications store data so that the CPU can process them quickly. Everything stored on RAM is lost if the computer is shut off. Depending on the applications you use, there is typically a maximum limit of RAM you will need for the computer to function properly.*
+## HDD – Also known as Hard Disk Drive
+*Also known as Hard Disk Drive, it is the component where photos, apps, documents and such are kept. Although they are still being used, we have much faster types of storage devices such as solid state drives (SSD) that are also more reliable*
+*The sound card is used mainly to play sound through a speaker. However, a video card is used to send images on the screen. Without it, it would be like looking at an empty monitor. Network adapter – Even though it is not actually required to operate the computer, the Network adapter improves the user’s experience as it provides access to the internet. Modern computers with operating systems such as Windows 10 will not offer the user all of its features without an Internet connection.*
